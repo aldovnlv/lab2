@@ -1,4 +1,4 @@
-name: flowers model
+name: flowers_model
 
 on:
   push:
